@@ -29,8 +29,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.01-variables.js">
+  <component name="RunManager" selected="Node.js.03-operadores.js">
     <configuration name="01-variables.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/01 - Javascript/01-variables.js" working-dir="$PROJECT_DIR$/01 - Javascript">
+      <method v="2" />
+    </configuration>
+    <configuration name="02-objetos.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/01 - Javascript/02-objetos.js" working-dir="$PROJECT_DIR$/01 - Javascript">
+      <method v="2" />
+    </configuration>
+    <configuration name="03-operadores.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/01 - Javascript/03-operadores.js" working-dir="$PROJECT_DIR$/01 - Javascript">
       <method v="2" />
     </configuration>
     <configuration name="Node.js" type="NodeJSConfigurationType" working-dir="$PROJECT_DIR$">
@@ -39,9 +45,13 @@
     <list>
       <item itemvalue="Node.js.Node.js" />
       <item itemvalue="Node.js.01-variables.js" />
+      <item itemvalue="Node.js.02-objetos.js" />
+      <item itemvalue="Node.js.03-operadores.js" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.03-operadores.js" />
+        <item itemvalue="Node.js.02-objetos.js" />
         <item itemvalue="Node.js.01-variables.js" />
       </list>
     </recent_temporary>
@@ -58,7 +68,7 @@
       <updated>1573441397986</updated>
       <workItem from="1573441411715" duration="1739000" />
       <workItem from="1573955901059" duration="1316000" />
-      <workItem from="1573959214581" duration="3299000" />
+      <workItem from="1573959214581" duration="10838000" />
     </task>
     <servers />
   </component>
@@ -77,5 +87,17 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/01 - Javascript/02-objetos.js</url>
+          <line>16</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
