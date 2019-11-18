@@ -1,5 +1,5 @@
 // 03-operadores
-const arreglo =[0,1,2,3,4,5,6,7,8,9,10];
+const arreglo =[1,2,3,4,5,6,7,8,9,10];
 
 for(const i in arreglo){ //Indices
     console.log('I:',i);
@@ -52,3 +52,28 @@ const resultadoOperacion = arreglo.map(
 );
 
 console.log(resultadoOperacion);
+
+const resultadoFind = arreglo.find(
+    (valorActual, Indice,Arreglo)=>{
+        return valorActual === 8;
+    }
+);
+
+console.log(resultadoFind);
+
+
+const resultadoFindIndex = arreglo.findIndex(
+    (valorActual, Indice,Arreglo)=>{
+        return valorActual === 8;
+    }
+);
+
+console.log(resultadoFindIndex);
+
+const respuestaReduce = arreglo.reduce(
+    (valorInicial, valorActual, indice, Arreglo)=>{
+        return valorInicial + 1;
+    },100
+);
+
+console.log(respuestaReduce);
