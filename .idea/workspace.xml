@@ -29,13 +29,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.05-callbacks.js">
-    <configuration name="01-variables.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/01 - Javascript/01-variables.js" working-dir="$PROJECT_DIR$/01 - Javascript">
-      <method v="2" />
-    </configuration>
-    <configuration name="02-objetos.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/01 - Javascript/02-objetos.js" working-dir="$PROJECT_DIR$/01 - Javascript">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Node.js.07-promesas.js">
     <configuration name="03-operadores.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/01 - Javascript/03-operadores.js" working-dir="$PROJECT_DIR$/01 - Javascript">
       <method v="2" />
     </configuration>
@@ -45,24 +39,30 @@
     <configuration name="05-callbacks.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/01 - Javascript/05-callbacks.js" working-dir="$PROJECT_DIR$/01 - Javascript">
       <method v="2" />
     </configuration>
+    <configuration name="06-sync-async.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/01 - Javascript/06-sync-async.js" working-dir="$PROJECT_DIR$/01 - Javascript">
+      <method v="2" />
+    </configuration>
+    <configuration name="07-promesas.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/01 - Javascript/07-promesas.js" working-dir="$PROJECT_DIR$/01 - Javascript">
+      <method v="2" />
+    </configuration>
     <configuration name="Node.js" type="NodeJSConfigurationType" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <list>
       <item itemvalue="Node.js.Node.js" />
-      <item itemvalue="Node.js.01-variables.js" />
-      <item itemvalue="Node.js.02-objetos.js" />
       <item itemvalue="Node.js.03-operadores.js" />
       <item itemvalue="Node.js.04-funciones.js" />
       <item itemvalue="Node.js.05-callbacks.js" />
+      <item itemvalue="Node.js.06-sync-async.js" />
+      <item itemvalue="Node.js.07-promesas.js" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.07-promesas.js" />
+        <item itemvalue="Node.js.06-sync-async.js" />
         <item itemvalue="Node.js.05-callbacks.js" />
         <item itemvalue="Node.js.04-funciones.js" />
         <item itemvalue="Node.js.03-operadores.js" />
-        <item itemvalue="Node.js.02-objetos.js" />
-        <item itemvalue="Node.js.01-variables.js" />
       </list>
     </recent_temporary>
   </component>
@@ -80,7 +80,7 @@
       <workItem from="1573955901059" duration="1316000" />
       <workItem from="1573959214581" duration="18879000" />
       <workItem from="1574309111800" duration="4251000" />
-      <workItem from="1574622481584" duration="2787000" />
+      <workItem from="1574622481584" duration="12134000" />
     </task>
     <servers />
   </component>
