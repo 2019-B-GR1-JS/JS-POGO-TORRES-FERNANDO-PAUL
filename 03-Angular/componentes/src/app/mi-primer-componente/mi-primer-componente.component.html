@@ -1,8 +1,10 @@
 <p>mi-primer-componente works!</p>
-<h1>Titulo</h1>
-<img width="200px"
-     height="200px"
-     src="https://statics.memondo.com/p/s1/ccs/2019/11/CC_0_82f5bb4c5c254d9f9c1523943adc73a6_hay_que_pensar_buen_metodo_para_tener_un_black_friday_cada_semana.jpg?cb=6776452" alt="">
-<p>Texto</p>
+<h1>{{titulo}}</h1>
+<img [width]="width"
+     [height]="height"
+     [src]="imagen" alt="">
+<p>{{textoImagen}}</p>
 
-<button (click)="saludar()">Hola</button>
+<button
+  (click)="aumentarSueldo()">
+  {{textoBoton}}</button>
