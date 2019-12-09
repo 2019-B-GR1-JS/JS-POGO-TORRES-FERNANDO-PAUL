@@ -1,10 +1,39 @@
-<p>mi-primer-componente works!</p>
 <h1>{{titulo}}</h1>
-<img [width]="width"
-     [height]="height"
-     [src]="imagen" alt="">
+<!-- {{}} MOSTRAR EN EL HTML-->
+<!-- acceder a metodos y propiedades de la clase, solo sirve para mostrar algo dentro de una etiqueta-->
+<img [src]="imagen"
+     alt=""
+     [width]="ancho"
+     [height]="ancho">
+
+
 <p>{{textoImagen}}</p>
 
+<!--  EVENT BINDING -->
+<!--  [evento]= "miFuncion($event)" -> Evento -->
 <button
-  (click)="aumentarSueldo()">
+  (mouseenter)="aumentarSueldo()"
+  (click)="aumentarTamanio()"
+>
   {{textoBoton}}</button>
+
+<br>
+
+<label >Ingrese numero uno:</label>
+<input type="text" (keypress)="escucharNum($event)"  >
+
+<label >Ingrese numero dos:</label>
+<input type="text" (keypress)="escucharNum2($event)" >
+
+
+<p>
+  Suma: {{suma}}
+  Resta: {{resta}}
+
+  Multiplicacion : {{multiplicacion}}
+  Division: {{division}}
+</p>
+
+
+<!-- Property Binding (Enlace a las propedades)-->
+<!-- ls -->
