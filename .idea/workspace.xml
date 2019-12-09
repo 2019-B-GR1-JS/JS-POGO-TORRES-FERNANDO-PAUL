@@ -16,6 +16,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="ts.external.directory.path" value="C:\Users\Fernando\Documents\GitHub\JS-POGO-TORRES-FERNANDO-PAUL\03-Angular\componentes\node_modules\typescript\lib" />
   </component>
@@ -84,7 +85,9 @@
       <workItem from="1574309111800" duration="4251000" />
       <workItem from="1574622481584" duration="13508000" />
       <workItem from="1575169891663" duration="17546000" />
-      <workItem from="1575250961937" duration="9545000" />
+      <workItem from="1575250961937" duration="9712000" />
+      <workItem from="1575321143580" duration="5030000" />
+      <workItem from="1575836999223" duration="9997000" />
     </task>
     <servers />
   </component>
